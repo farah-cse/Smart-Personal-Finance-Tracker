@@ -80,4 +80,24 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## **🖥️ Sample Output**
+
+===== Personal Finance Tracker =====
+- 1. Add Transaction
+- 2. View Transactions
+- 3. Generate Report
+- 4. Export to CSV
+- 5. Sync Data
+- 6. Exit
+
+Enter choice: 1
+- Enter amount: 250
+- Enter category: Food
+- Enter description: Dinner
+- ✅ Transaction added successfully!
+
+Enter choice: 3
+- 📊 Total Spending: 250
+- 📂 Category Breakdown:
+Food: 250
 
