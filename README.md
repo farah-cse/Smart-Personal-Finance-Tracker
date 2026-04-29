@@ -20,34 +20,34 @@ reporting.
 * Modular and scalable project structure
 
 ## 🧠 **Concepts Used**
-🔹 Core Python
-Control flow (if, else, loops)
-Functions, return values
-Lambda functions
-🔹 Data Structures
-Lists, Tuples, Sets, Dictionaries
-String manipulation and formatting
-🔹 Pythonic Features
-List comprehensions & generators
-map, filter, zip, enumerate
-*args and **kwargs
-Mutability vs immutability
-🔹 Object-Oriented Programming
-Classes and objects
-__init__ constructors
-Instance vs class variables
-Inheritance and polymorphism
-Encapsulation and abstraction
-@dataclass
-🔹 Error Handling
-Exception handling (try, except)
-Custom exceptions
-🔹 File Handling & Serialization
-JSON and CSV handling
-File read/write operations
-🔹 Standard Library
-datetime, os, pathlib
-logging
-🔹 Advanced Python
-Async programming (async / await)
-Basic multithreading concepts
+* **Core Python**
+  - Control flow (if, else, loops)
+  - Functions, return values
+  - Lambda functions
+* **Data Structures**
+  - Lists, Tuples, Sets, Dictionaries
+  - String manipulation and formatting
+* **Pythonic Features**
+  - List comprehensions & generators
+  - map, filter, zip, enumerate
+  - *args and **kwargs
+  - Mutability vs immutability
+* **Object-Oriented Programming**
+  - Classes and objects
+  - __init__ constructors
+  - Instance vs class variables
+  - Inheritance and polymorphism
+  - Encapsulation and abstraction
+  - @dataclass
+* **Error Handling**
+  - Exception handling (try, except)
+  - Custom exceptions
+* **File Handling & Serialization**
+  - JSON and CSV handling
+  - File read/write operations
+* **Standard Library**
+  - datetime, os, pathlib
+  - logging
+* **Advanced Python**
+  - Async programming (async / await)
+  - Basic multithreading concepts
