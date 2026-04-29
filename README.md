@@ -51,3 +51,33 @@ reporting.
 * **Advanced Python**
   - Async programming (async / await)
   - Basic multithreading concepts
+ 
+# **▶️ How to Run**
+## 1. Clone the repository
+```
+git clone https://github.com/your-username/finance-tracker.git
+cd finance-tracker
+```
+## 2. Create virtual environment
+```
+python -m venv venv
+```
+## 3. Activate it
+Windows:
+```
+venv\Scripts\activate
+```
+Mac/Linux:
+```
+source venv/bin/activate
+```
+## 4. Install dependencies
+```
+pip install -r requirements.txt
+```
+## 5. Run the app
+```
+python main.py
+```
+
+
